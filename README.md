@@ -52,3 +52,4 @@ Join our community of developers creating universal apps.
 # Dasuposu
 # ICT-Dasuposu
 # ICT-Dasuposu
+# ICT-2024
